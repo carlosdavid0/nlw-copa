@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "short-unique-id": "^4.4.4",
-    "zod": "^3.19.1"
-  }
-}
