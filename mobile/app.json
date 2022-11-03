@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "Nlw Copa",
-    "slug": "nlw-copa",
+    "slug": "nlwcopa",
+    "scheme": "nlwcopa",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
